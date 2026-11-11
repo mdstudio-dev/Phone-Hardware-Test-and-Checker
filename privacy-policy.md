@@ -72,7 +72,7 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## 7. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us: fezdecor@gmail.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us: ouayatstudio@gmail.com
 
 * **Developer Name:** Ouayat Studio  
 * **Application Package:** com.hardwaretest.phonechecker  
